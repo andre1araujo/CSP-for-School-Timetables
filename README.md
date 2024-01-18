@@ -17,7 +17,7 @@ In the end, the user should have learned the following knowledge:
   - How to apply a binary CSP to a real problem;
   - Basic notions of Python;
 
-:warning: **NOTE** - If you notice, the images on the notebook are in portuguese. We are sorry for the inconveniance but it shoul be still easy to understand the graphics. In any case, if really needed, jut contact us or leave a comment and we will do the translation! Thank you!
+:warning: **NOTE** - If you notice, the images on the notebook are in portuguese. We are sorry for the inconveniance but it should be still easy to understand the graphics. In any case, if really needed, jut contact us or leave a comment and we will do the translation! Thank you!
 
 ---
 
